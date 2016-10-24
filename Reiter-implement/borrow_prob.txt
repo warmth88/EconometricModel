@@ -1,0 +1,46 @@
+ #####################################
+ Evaluating SS system
+x( 1) =              0.43190
+x( 2) =            522.64178
+x( 3) =              3.65147
+x( 4) =              1.35021
+Started return array setup at             0.0 seconds.
+Finished return array setup at             0.0 seconds.
+  
+ VF iter =            1 , VF error =    4.4402269675150032     
+ VF iter =           51 , VF error =    6.7507893672821950E-002
+ VF iter =          101 , VF error =    1.7557234024607737E-003
+ VF iter =          151 , VF error =    4.6601107985821955E-005
+Starting ergodic distribution calculation at             1.0 seconds.
+  
+ Dist iter =            1 , Dist error =    3.2216241232260359E-003
+ Dist iter =           51 , Dist error =    4.0861499134785817E-003
+ Dist iter =          101 , Dist error =    1.9111603794835785E-005
+Finished ergodic distribution calculation at             1.0 seconds.
+  
+ Some output from this run
+% Return on risky bond =    3.09278
+% in default =    6.95117 % defaulting =    1.00000
+% borrowing =   88.36621 % saving =    3.73832
+% borrow limit =   35.36652 % upper b limit =    0.00000
+Borrower Net Savings =   -0.71113
+Output =    2.27110 K =    3.65147 L =    1.79111
+eta*Nb implied =    1.66940 Nk implied =    0.12169
+Def Target =    0.01000 Implied Def Rate =    0.01000
+Implied Cb =    0.15570
+Ck =    1.35021 Implied Ck =    1.35021
+L =    1.79111 Implied L =    1.79110
+LHS cap intraeuler^-1 =    3.12619 RHS cap intraeuler^-1 =    3.12619
+  
+ SS ERROR CALCULATIONS
+SS % Err Eqn( 1) =    0.00000
+SS % Err Eqn( 2) =    0.00000
+SS % Err Eqn( 3) =    0.00000
+SS % Err Eqn( 4) =    0.00000
+  
+ Total SS error =    3.0543671454260284E-006
+Is this a discarded run? = F
+ Writing output files.
+  
+Finished completely in             1.7 seconds.
+ #####################################
